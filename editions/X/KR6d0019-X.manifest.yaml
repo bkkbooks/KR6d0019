@@ -1,0 +1,344 @@
+canonical_identifier: bkk:krp/KR6d0019/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0019/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙經文句私志記
+  identifiers:
+    krp: KR6d0019
+    cbeta: X29n0596
+    cbeta_old_id: X29n0596
+    authorityid: CA0002245
+    json_key: X0596
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X29/X29n0596.xml
+    old_id: X29n0596
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0019_000-X.yaml, hash: 'sha256:94cdeb62982ee44209c3e3e54c50ffa1ba224a8619a1c056d8bcb9ade1ba6ef3'}
+  - {seq: 1, filename: KR6d0019_001-X.yaml, hash: 'sha256:2b80d70355e42a658d630a3d4b221f1d7589e276463a482f1315b0d5182abdf8'}
+  - {seq: 2, filename: KR6d0019_002-X.yaml, hash: 'sha256:f7f5d66f862c7357f42653fe0cdff8e00e8dca0894cebd3a348a1e8266127d01'}
+  - {seq: 3, filename: KR6d0019_003-X.yaml, hash: 'sha256:ae323309ed04b0406336f85bcabeb94617d9fd92fd7c1e75e3a323b5d0697be0'}
+  - {seq: 4, filename: KR6d0019_004-X.yaml, hash: 'sha256:7fc549ec3eac483aa476ef77938ec31225b430f780d21db54e641dda1b50dbeb'}
+  - {seq: 5, filename: KR6d0019_005-X.yaml, hash: 'sha256:900e3259900cba50ad36de2b129ca6ea37ec98fe8066d18d6bb7dc2d760d69d3'}
+  - {seq: 6, filename: KR6d0019_006-X.yaml, hash: 'sha256:79deeb848b14347e3d61d79907f648f2e0ad93fd56429aa917f7c6126fbd5265'}
+  - {seq: 7, filename: KR6d0019_007-X.yaml, hash: 'sha256:488f9a8f6eea139c2a908d2cce85f1e030609204ba5d8302aa331b2187322737'}
+  - {seq: 8, filename: KR6d0019_008-X.yaml, hash: 'sha256:41cf33e149b00902304dc7168791fe88995aa0810ecdbcfdc24396fea0cd994c'}
+  - {seq: 9, filename: KR6d0019_009-X.yaml, hash: 'sha256:365004a24a877f1af315b4a12176f3c5139c5ca7c74acc56e906f08016f599c5'}
+  - {seq: 10, filename: KR6d0019_010-X.yaml, hash: 'sha256:8e89e2371114758bbc91c1de158a27fafafbecc57a0677d16ce391e43e49ab84'}
+  - {seq: 11, filename: KR6d0019_011-X.yaml, hash: 'sha256:69e73c061c4808135777a649418f9da534add24da8ca67926c05b204c9ede685'}
+  - {seq: 12, filename: KR6d0019_012-X.yaml, hash: 'sha256:1aea83ae2dd31009ae5e5579794360ed1c73295a75baa13ca32f92e728646ddb'}
+  - {seq: 13, filename: KR6d0019_013-X.yaml, hash: 'sha256:6f803af6f75f12e816cb4355ea1a3ef166dcee5c4634c1668fa1a66758f94431'}
+  - {seq: 14, filename: KR6d0019_014-X.yaml, hash: 'sha256:0baf7daede2436ec3afd565412b56d99659598c995c61be0cd5a62f2ff7eb36a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0019_000-X.markers.yaml, hash: 'sha256:ffae2b46a453449b78de647600ea8300c68737ec6c75f18c0ee6289ac8f0a7c9'}
+  - {seq: 1, role: markers, filename: assets/KR6d0019_001-X.markers.yaml, hash: 'sha256:ca459f2ae6bbeec42ca88d2f414c4934a292e22f74d4edc503b9edfb82e6f37a'}
+  - {seq: 2, role: markers, filename: assets/KR6d0019_002-X.markers.yaml, hash: 'sha256:5f1be93b30652921edd15fbb55a777e27ede556d70d3254d355acce1ff37a4ab'}
+  - {seq: 3, role: markers, filename: assets/KR6d0019_003-X.markers.yaml, hash: 'sha256:d3ba306cd657a1dc12069e93f1e00e1542aa3c70b46839618391e1490ecb1786'}
+  - {seq: 4, role: markers, filename: assets/KR6d0019_004-X.markers.yaml, hash: 'sha256:02012c8c5df0cabad64f8475bb7749d9c7a5c0c34984703d2f8468931b071516'}
+  - {seq: 5, role: markers, filename: assets/KR6d0019_005-X.markers.yaml, hash: 'sha256:8a9a8e34999bc0309e771b6d26c395dda6ac23559740ef453879b57b3a2c02f5'}
+  - {seq: 6, role: markers, filename: assets/KR6d0019_006-X.markers.yaml, hash: 'sha256:30769f95d702e8d541f662a32c49df9fc2b2717f55c9c7b877f114c249b49421'}
+  - {seq: 7, role: markers, filename: assets/KR6d0019_007-X.markers.yaml, hash: 'sha256:916adaa87f256b74c41ed7695db9aaa769c118a96e375dd53c5ede4ace32cd03'}
+  - {seq: 8, role: markers, filename: assets/KR6d0019_008-X.markers.yaml, hash: 'sha256:6ac7d1d403e84af12136cfeab1dace8ef0146ccab9057ef426a7b07a0db6f128'}
+  - {seq: 9, role: markers, filename: assets/KR6d0019_009-X.markers.yaml, hash: 'sha256:1c493ad76e930e3fab4dd22663607ce2d684f8993a83a5af068dac7ffd10f1a0'}
+  - {seq: 10, role: markers, filename: assets/KR6d0019_010-X.markers.yaml, hash: 'sha256:206223b6703a8e4e70b7ae95f213283f6f7af97aaf42f73ce230b7129aefd1f1'}
+  - {seq: 11, role: markers, filename: assets/KR6d0019_011-X.markers.yaml, hash: 'sha256:b9e51486522755d63147ec711e7a5cd0ba6abe79330fd319f934bb54f18a44cb'}
+  - {seq: 12, role: markers, filename: assets/KR6d0019_012-X.markers.yaml, hash: 'sha256:e6ca0e998ee1640d75dc3dafca5ccbb57d52c13be87237fc9d5cc79f485edafc'}
+  - {seq: 13, role: markers, filename: assets/KR6d0019_013-X.markers.yaml, hash: 'sha256:cafa44a0be38aa8d7fd13013393b577ff1fa963eb2debaa4c1eb6e80363e188f'}
+  - {seq: 14, role: markers, filename: assets/KR6d0019_014-X.markers.yaml, hash: 'sha256:b7f26ddbcc4adec518d7aa8de15fc14f6f434a4d63dd939eb724bf5e41b83ccc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0019_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 妙經文句私志記目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0019_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 32848
+  label: 妙經文句私志記卷第一藁草而已未及詳悉
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0019_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0019_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 33419
+  label: 妙經文句私志記卷第二從釋文方軌盡如是因緣釋
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0019_X_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從釋文方軌盡如是因緣釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0019_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 31260
+  label: 妙經文句私志記卷第三從約教釋如是終經文住字
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0019_X_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從約教釋如是終經文住字
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0019_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 35027
+  label: 妙經文句私志記卷第四從經王城終皆是阿羅漢釋位義
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0019_X_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從經王城終皆是阿羅漢釋位義
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0019_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 40853
+  label: 妙經文句私志記卷第五從歎羅漢德盡目連
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0019_X_005-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從歎羅漢德盡目蓮
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0019_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 41119
+  label: 妙經文句私志記卷第六從迦旃延訖菩薩眾氣類
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0019_X_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從迦旃延訖菩薩眾氣類
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0019_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 40963
+  label: 妙經文句私志記卷第七此下盡竪嘆菩薩德，從橫歎菩薩德，下盡通序
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0019_X_007-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從竪嘆菩薩德盡通序
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0019_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 40011
+  label: 妙經文句私志記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0019_X_008-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 入別序釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0019_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 31772
+  label: 妙經文句私志記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0019_X_009-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 入疑念序釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0019_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 30028
+  label: 妙經文句私志記卷第十方便品盡釋題
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0019_X_010-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 方便品第二盡釋題
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0019_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 28750
+  label: 妙經文句私志記卷第十一方便品文從初盡於疑請
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0019_X_011-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 方便品文從初盡於疑請
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0019_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 47846
+  label: 妙經文句私志記卷第十二從廣開顯，盡過去佛章，開人天乘總問答
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0019_X_012-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 從廣開顯盡過去佛章開人天乘總問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6d0019_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 26510
+  label: 妙經文句私志記卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6d0019_X_013-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 盡方便品文釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6d0019_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 20149
+  label: 妙經文句私志記卷第十四譬喻品
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6d0019_X_014-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 入譬喻品第三釋文
+  type: mulu
+  level: 1
+hash: sha256:dae08ce2d83f9ab0cc0442a8c3948f384cb17eebfb2ff1f275d358f64e34e9a1
