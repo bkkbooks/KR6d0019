@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0019_000-X.yaml, hash: 'sha256:94cdeb62982ee44209c3e3e54c50ffa1ba224a8619a1c056d8bcb9ade1ba6ef3'}
+  - {seq: 0, filename: KR6d0019_000-X.yaml, hash: 'sha256:1411a1581a7fc6b368f675c413246a00999985fcfb3597403e6a7473ee4d19c4'}
   - {seq: 1, filename: KR6d0019_001-X.yaml, hash: 'sha256:2b80d70355e42a658d630a3d4b221f1d7589e276463a482f1315b0d5182abdf8'}
   - {seq: 2, filename: KR6d0019_002-X.yaml, hash: 'sha256:f7f5d66f862c7357f42653fe0cdff8e00e8dca0894cebd3a348a1e8266127d01'}
   - {seq: 3, filename: KR6d0019_003-X.yaml, hash: 'sha256:ae323309ed04b0406336f85bcabeb94617d9fd92fd7c1e75e3a323b5d0697be0'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 13, filename: KR6d0019_013-X.yaml, hash: 'sha256:6f803af6f75f12e816cb4355ea1a3ef166dcee5c4634c1668fa1a66758f94431'}
   - {seq: 14, filename: KR6d0019_014-X.yaml, hash: 'sha256:0baf7daede2436ec3afd565412b56d99659598c995c61be0cd5a62f2ff7eb36a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0019_000-X.markers.yaml, hash: 'sha256:ffae2b46a453449b78de647600ea8300c68737ec6c75f18c0ee6289ac8f0a7c9'}
+  - {seq: 0, role: markers, filename: assets/KR6d0019_000-X.markers.yaml, hash: 'sha256:6b6a123be31f3dee7dfc03a7f92fd8d538cb1e9c4c87501975402a046c883dfa'}
   - {seq: 1, role: markers, filename: assets/KR6d0019_001-X.markers.yaml, hash: 'sha256:ca459f2ae6bbeec42ca88d2f414c4934a292e22f74d4edc503b9edfb82e6f37a'}
   - {seq: 2, role: markers, filename: assets/KR6d0019_002-X.markers.yaml, hash: 'sha256:5f1be93b30652921edd15fbb55a777e27ede556d70d3254d355acce1ff37a4ab'}
   - {seq: 3, role: markers, filename: assets/KR6d0019_003-X.markers.yaml, hash: 'sha256:d3ba306cd657a1dc12069e93f1e00e1542aa3c70b46839618391e1490ecb1786'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0019_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 妙經文句私志記目次
@@ -341,4 +341,4 @@ table_of_contents:
   label: 入譬喻品第三釋文
   type: mulu
   level: 1
-hash: sha256:dae08ce2d83f9ab0cc0442a8c3948f384cb17eebfb2ff1f275d358f64e34e9a1
+hash: sha256:434384c03f4e75c46e150fef1ecc2fe1efa704cbcca30870eb572e69bd9d092a

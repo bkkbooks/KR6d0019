@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6d0019/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 妙經文句私志記目次卷第一序品第一卷第二從釋文方軌盡如是因緣釋卷第三從約教釋如是終經文住字卷第四從經王城終皆是阿羅漢釋位義卷第五從歎羅漢德盡目蓮卷第六從迦旃延訖菩薩衆氣類卷第七從竪嘆菩薩德盡通序卷第八入別序釋卷第九入疑念序釋卷第十方便品第二盡釋題卷第十一方便品文從初盡於疑請卷第十二從廣開顯盡過去佛章開人天乘總問答卷第十三盡方便品文釋卷第十四入譬喻品第三釋文未及完結妙經文句私志記目次終
   hash: sha256:b7a431243a29838e2e7c78a8ad3182dc74c11f065128e244a421aad0e4328463
   markers:
   - {type: 其他, offset: 0, content: 妙經文句私志記目次, id: KR6d0019_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 妙經文句私志記
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X29/X29n0596.xml
     old_id: X29n0596
-hash: sha256:52c01afc5d8e2dc0b05be4cc2e75438c3889ba9396f8f6f070cead6394f136ca
+hash: sha256:b3cf497a1212c833c3c29be83f4b2422313165a48a4d5acab64b9eaf091c5339
